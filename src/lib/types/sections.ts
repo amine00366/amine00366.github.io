@@ -78,7 +78,7 @@ export interface FooterSectionType extends Section {
 ///////////// scolar ////////////////////
 export interface ScolarShipType {
   Title: string;
-  scolarShip: String[];
+  scolarShip: string[];
   from: string;
   to: string;
   field: string;
