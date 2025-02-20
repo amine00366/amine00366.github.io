@@ -23,7 +23,7 @@ export const seoData = {
     'Mohamed Amine Sidhom is a DevOps & Cloud Engineer with a solid background in software engineering, cloud computing, and automation. ',
   author: author.name,
   image:
-    'https://i.ibb.co/g6KM0tG/Capture.png',
+    '/capture.png',
   url: 'https://amine00366.github.io/',
   keywords: [
     'Mohamed Amine Sidhom',
