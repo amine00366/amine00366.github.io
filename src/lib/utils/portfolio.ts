@@ -372,7 +372,7 @@ export const scholarshipsection = [
     scolarShip: ["Pursuing Engineer Diploma in Software Engineering"],
     from: "October 2024",
     to: "October 2025",
-    image:"/hochschule.png"
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Uni_Marburg_Logo.svg/960px-Uni_Marburg_Logo.svg.png"
   },
   {
     Title: "Student at ESPRIT, Ariana, Tunisia",
