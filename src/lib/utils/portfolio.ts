@@ -368,10 +368,10 @@ export const footerSection: FooterSectionType = {
 
 export const scholarshipsection = [
   {
-    Title: " Student at Hochschule Schmalkalden - University of Applied Sciences, Germany",
+    Title: " Student at Philipps University Of Marburg - University of Applied Sciences, Germany",
     scolarShip: ["Pursuing Engineer Diploma in Software Engineering"],
-    from: "October 2024",
-    to: "October 2025",
+    from: "October 2025",
+    to: "October 2026",
     image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Uni_Marburg_Logo.svg/960px-Uni_Marburg_Logo.svg.png"
   },
   {
